@@ -10,6 +10,33 @@ Answer the following questions based on your understanding of Python programming
 1. Python Basics:
    - What is Python, and what are some of its key features that make it popular among developers? Provide examples of use cases where Python is particularly effective.
 
+ANSWER
+
+Python is a high-level, interpreted programming language known for its readability, simplicity, and flexibility. It was created by Guido van Rossum and first released in 1991. Python's design philosophy emphasizes code readability with the use of significant indentation.
+
+Here are some key features that make Python popular among developers:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 2. Installing Python:
    - Describe the steps to install Python on your operating system (Windows, macOS, or Linux). Include how to verify the installation and set up a virtual environment.
 
